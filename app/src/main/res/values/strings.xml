@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyBluetoothDemo</string>
+    <string name="open_bt">打开蓝牙</string>
+    <string name="search">搜索设备</string>
+    <string name="send_msg">发送消息</string>
+    <string name="connect_error">连接失败</string>
+    <string name="connect_success">连接成功</string>
+    <string name="connecting">连接中</string>
+    <string name="connect_state">连接状态</string>
+    <string name="send_msgs">发送数据：</string>
+    <string name="send_msg_error">发送数据失败：</string>
+    <string name="get_msg">获取到数据：</string>
+</resources>
